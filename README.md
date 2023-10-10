@@ -1,2 +1,2 @@
 # python_learning
-For learning automation in Python, as well as GitHub usage.
+For learning automation in Python, how to use GitHub, and practicing version control with Git.
